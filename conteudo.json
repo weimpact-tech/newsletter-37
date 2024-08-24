@@ -1,0 +1,151 @@
+{
+  "previa": "",
+  "artigoDestaque": {
+    "numeroEdicao": "37",
+    "mensagemSpam": "Não queremos ir para o spam! =) selecione este email como “confiável” ou mova-o para a Caixa de Entrada.",
+    "img": "./img/destaque_news37.png",
+    "alt": "FOTO: Dani Junco",
+    "titulo": ":O poder da comunidade para o empoderamento feminino",
+    "texto": [
+      "O termo burnout parental ainda é pouco conhecido no Brasil, mas pode impactar severamente a escassez de talentos nas empresas.",
+      "Uma pesquisa realizada pela B2Mamy e Kiddle Pass revela que 90% das mães trabalhadoras sofrem de esgotamento mental, com 54% diagnosticadas e 17% com suspeita de doenças emocionais. A falta de apoio das empresas intensifica essa questão. Atualmente, apenas 45% das mulheres estão no mercado de trabalho, mas esse número deve aumentar para 65% até 2030.",
+      "Além de práticas de diversidade e inclusão, a criação de comunidades onde as mulheres se sintam representadas, apoiadas e empoderadas pode ser uma solução para esse desafio.",
+      "No blog WE Impact, a CEO da B2Mamy, Dani Junco, discute como esse cenário influencia o mercado de trabalho e o ecossistema de tecnologia e inovação, compartilhando cases e sua opinião sobre como podemos transformar essa realidade."
+    ],
+    "linkBotao": "https://www.weimpact.tech/blog-comunidades-maes",
+    "botao": "Saiba mais em:"
+  },
+  "compartilhe": {
+    "texto": [
+      "Está aproveitando a leitura?",
+      "Que tal compartilhar essa edição da WE Impact News com outras empreendedoras e empreendedores da sua rede de contatos? 😉"
+    ]
+  },
+  "weImpactNetwork": {
+    "tituloSecao": "#WIN – WE Impact Network",
+    "titulo": "Venuxx e Unbox no Fórum E-Commerce Brasil",
+    "img": "./img/win_news37.png",
+    "alt": "imagem ilustrativa",
+    "linkedinAutora": "",
+    "nomeAutora": "",
+    "descricaoAutora": "",
+    "texto": [
+      "Nossa CEO, Lícia Souza e as investidas WE Impact, Venuxx e Unbox, marcaram presença no Fórum E-Commerce Brasil, o maior evento de e-commerce da América Latina. Na 15ª edição, líderes do setor se reuniram para compartilhar conhecimento, fazer networking e inovar.",
+      "A Venuxx é uma plataforma de logística personalizada que conecta empresas B2B a especialistas em transporte, enquanto a Unbox oferece soluções completas para e-commerce, reunindo todas as ferramentas necessárias em uma única plataforma.",
+      "O evento foi uma oportunidade valiosa para as investidas WEI mpact apresentarem suas soluções, em parceria com a UX Group!"
+    ],
+    "tituloLista": "título lista JSON",
+    "textoLista": "texto lista JSON",
+    "linkBotao": "https://www.linkedin.com/feed/update/urn:li:share:7225191240680538112/?actorCompanyId=37821762",
+    "botao": "Saiba mais:"
+  },
+  "diversidadeNaPratica": {
+    "tituloSecao": "#DiversidadenaPrática",
+    "titulo": "70% das mulheres maduras estão em transição de carreira",
+    "img": "./img/diversidade_news37.png",
+    "alt": "imagem ilustrativa",
+    "texto": [
+      "A maturidade é um momento de reflexão e mudança. Um estudo da Maturi e NOZ Inteligência revela que 70% das mulheres estão em transição de carreira, muitas vezes motivadas pelo etarismo no mundo corporativo e pela busca por equilíbrio entre vida pessoal e trabalho.",
+      "A pesquisa, realizada com mais de 2 mil pessoas entre 43 e 82 anos, destaca que 55% das mulheres preferem trabalhar como consultoras, autônomas ou freelancers, enquanto 38% desejam empreender. Esses dados mostram a importância de um mercado de trabalho mais inclusivo e adaptado à experiência desses profissionais.",
+      "As ações de diversidade e inclusão da sua empresa envolvem esse público?",
+      "Leia a matéria e descubra o que elas esperam do mercado de trabalho."
+    ],
+    "tituloLista": "título lista JSON",
+    "textoLista": [
+      "texto lista JSON",
+      "texto lista JSON"
+    ],
+    "linkBotao": " https://forbes.com.br/forbes-mulher/2024/08/por-que-70-das-mulheres-maduras-estao-em-transicao-de-carreira/",
+    "botao": "Saiba mais"
+  },
+  "dicaDaCEO": {
+    "tituloSecao": "#DicadaCEO",
+    "titulo": "Não tem",
+    "img": "./img/dicadaceo_news_37.png",
+    "alt": "Foto Lívia Hallak",
+    "texto": [
+      "“Não alcançaremos o status de uma sociedade verdadeiramente preparada para o futuro se a nossa única ênfase estiver na inovação tecnológica. Devemos progredir igualmente na inovação humana, buscando valores como ética e equidade.”"
+    ],
+    "linkedinAutora": "",
+    "nomeAutora": "Renata Feltrin",
+    "descricaoAutora": "diretora executiva da CI&T para o <a href=\"https://www.weimpact.tech/blog-mulheres-empreendedoras-tech/\" target=\"_blank\" style=\"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #04ebfb;\"> blog WE Impact </a>"
+  },
+  "elasImpactam": {
+    "tituloSecao": "#ElasImpactam",
+    "img": "./img/elasimpactam_news_37.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "Elas são ouro!",
+    "texto": [
+      "O Brasil brilhou nas Olimpíadas de Paris 2024, com as mulheres dominando o pódio. Elas conquistaram 12 das 20 medalhas do país, incluindo todos os ouros. Confira :",
+      "Rebeca Andrade - Ginástica artística - 🥇🥈🥈",
+      "Beatriz Souza - Judô - 🥇",
+      "Duda e Ana Patrícia - Vôlei de praia - 🥇",
+      "Futebol feminino - 🥈",
+      "Tatiana Weston-Webb - Surfe - 🥈",
+      "Rayssa Leal - Skate street - 🥉",
+      "Larissa Pimenta - Judô - 🥉",
+      "Bia Ferreira - Boxe - 🥉",
+      "Ginástica por equipes - 🥉",
+      "Vôlei feminino - 🥉",
+      "O protagonismo feminino se destacou em um time de 277 atletas, com 154 mulheres, marcando a história do esporte brasileiro. Elas não só competiram; fizeram história, e seu legado vai além das medalhas. O futuro do esporte brasileiro é, sem dúvida, feminino."
+    ],
+    "textoLista": "texto lista JSON",
+    "linkBotao": "https://revistapegn.globo.com/mulheres-empreendedoras/noticia/2024/03/mulheres-empreendem-com-solucoes-b2b-para-promocao-de-equidade-de-genero-nas-empresas.ghtml",
+    "botao": "NOPE, TIRAR"
+  },
+  "empresasQueTransformam": {
+    "tituloSecao": "#EmpresasQueTransformam",
+    "img": "./img/empresas_news_37.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "Microsoft chega a mais de 70% de mulheres na liderança",
+    "texto": [
+      "Alcançar a diversidade na alta liderança em setores tradicionalmente masculinos é uma das missões da Microsoft, empresa integrante da Weimpactnetwork.",
+      "Sob a liderança de Tânia Cosentino, a corporação alcançou mais de 70% de mulheres na liderança. Incentivar que mulheres se candidatem, garantir que não haja processos seletivos sem mulheres e contar com pelo menos uma candidata na última etapa são algumas das ações utilizadas para conquistar esses números.",
+      "Além de buscar e contratar, a Microsoft também investe no desenvolvimento de profissionais talentosas. Essas iniciativas não só promovem igualdade, mas também impulsionam o crescimento econômico e a inovação dentro da empresa."
+    ],
+    "textoLista": [
+      "texto lista JSON"
+    ],
+    "linkBotao": "https://forbes-com-br.cdn.ampproject.org/c/s/forbes.com.br/forbes-mulher/2024/08/microsoft-traz-quatro-novas-executivas-e-chega-a-mais-de-70-de-mulheres-na-lideranca/?amp",
+    "botao": "Saiba mais"
+  },
+  "naMidia": {
+    "tituloSecao": "#NaMídia",
+    "img": "./img/namidia_news37.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "UX Group e Venuxx se unem para incrementar experiência no last mile",
+    "texto": [
+      "A Venuxx, investida da WE Impact, e a UX Group firmaram uma parceria estratégica que promete revolucionar a entrega de última milha! A Venuxx traz um alto nível de personalização e práticas sustentáveis, enquanto a UX Group contribui com sua expertise tecnológica.",
+      "Juntas, elas prometem transformar a experiência do cliente, oferecendo um atendimento mais eficiente e inovador, promovendo também a inclusão feminina na rede de distribuição."
+    ],
+    "linkBotao": "https://portal.clientesa.com.br/cliente-sa/ux-group-e-venuxx-se-unem-para-incrementar-experiencia-no-last-mile/",
+    "botao": "Confira"
+  },
+  "nasRedes": {
+    "tituloSecao": "#NasRedes",
+    "img": "./img/narede_news37.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "Descubra agora as primeiras estrelas da nossa lista das 20 empresas mais inovadoras do país! Acesse o post para ver como essas líderes estão transformando o mercado com suas ideias revolucionárias e fique por dentro das últimas tendências.",
+    "linkBotao": "https://www.instagram.com/p/C-vC0FBs8I5/?img_index=1",
+    "botao": "Veja o post"
+  },
+  "saveTheDate": {
+    "tituloSecao": "#WEImpactIndica",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "ONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSON",
+    "linkBotao": "https://www.sebrae.com.br/sites/PortalSebrae/startupday2021/home",
+    "botao": "Veja a programação completa"
+  },
+  "footer": {
+    "chamada": "Recebeu este email de alguém?",
+    "linkBotao": "https://startups.weimpact.tech/we-impact-news?utm_source=Newsletter&utm_medium=email&utm_campaign=newsletter",
+    "botao": "Assine a WE Impact News",
+    "linkLinkedin": "https://www.linkedin.com/company/weimpact-tech",
+    "imgLinkedin": "https://weimpact-tech.github.io/newsletter-4/img/linkedin-icon.png",
+    "altLinkedin": "Linkedin",
+    "linkInstagram": "https://www.instagram.com/weimpact.tech/",
+    "imgInstagram": "https://weimpact-tech.github.io/newsletter-4/img/insta-icon.png",
+    "altInstagram": "Instagram"
+  }
+}
